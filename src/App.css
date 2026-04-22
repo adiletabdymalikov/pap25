@@ -374,4 +374,76 @@ td {
 
 .status-text {
     color: #333;
+<<<<<<< HEAD
+=======
+}
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 800px;
+}
+
+h2 { font-size: 20px; margin-bottom: 20px; }
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.form-group input {
+    padding: 8px;
+    border: 1px solid #a91212;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.submit-btn {
+    width: fit-content;
+    padding: 8px 15px;
+    background: #d20707;
+    border: 1px solid #767676;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #e5e2e2;
+    padding: 10px;
+    text-align: left;
+    font-size: 14px;
+}
+
+th { background-color: #8e8eb2; }
+
+.actions-btns {
+    display: flex;
+    gap: 5px;
+}
+
+.edit-btn, .delete-btn {
+    padding: 4px 8px;
+    border: 1px solid #0f0101;
+    background: rgb(195, 28, 28);
+    cursor: pointer;
+    font-size: 12px;
+>>>>>>> 230c8392d915ef21bcac2c3ed765fe0085272a5c
 }

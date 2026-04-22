@@ -17,5 +17,10 @@ Note: This will impact Vite dev & build performances.
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # pap25
+<<<<<<< HEAD
 # QQ2
 # QQ2
+=======
+# QQ3
+# QQ3
+>>>>>>> 230c8392d915ef21bcac2c3ed765fe0085272a5c
